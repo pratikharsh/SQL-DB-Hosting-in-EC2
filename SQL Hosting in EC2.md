@@ -1,4 +1,3 @@
-Certainly! Here's the guide formatted in Markdown for GitHub:
 
 ---
 
@@ -88,5 +87,3 @@ Finally, open MySQL Workbench on your local machine and configure a new connecti
 🎉 You're all set! You've successfully hosted a MySQL database on an EC2 Ubuntu instance and connected to it using MySQL Workbench.
 
 ---
-
-This Markdown format should be ready to use in your GitHub repository or any other Markdown-supported platform.
